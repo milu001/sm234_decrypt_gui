@@ -8,16 +8,16 @@
 另一个则是在不出网的内网环境下测试，由于没找到一款图形化方便测试的工具，就搓了个轮子出来...<br>
 
 
-MD5 的 国密(SM)加解密GUI工具.exe 哈希:
-01c585520ff06084b420dd99a37db59f
+MD5 :
+a9c00da7526a2a1b910408a8f8698c86
 
-SHA256 的 国密(SM)加解密GUI工具.exe 哈希:
-a076d15879e4cc8670b461eb6a9e207d01b167ceb62bd8c3d9d22a1ceaf7068b
+SHA256 :
+8107f9c17789efda7414d72432f2669b6cf817d5fc07e89f02d978a20829169e
 
 
 ### 工具截图
 
-![sm2](img/sm2-hex.png)<br>
+![sm2](img/sm2.png)<br>
 ![sm2](img/sm2-base64.png)<br>
 ![sm3](img/sm3.png)<br>
 ![sm4](img/sm4.png)<br>
