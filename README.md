@@ -16,7 +16,7 @@
 增加了JSON格式化功能，方便阅读。<br><br>
 ![sm2](img/p2sm2.png)<br>
 ![sm4](img/p2sm4.png)<br>
-![log](img/p2log.png)<br>
+![log](img/log.png)<br>
 
 ## 更新日志 2024-06-14
 SM4 新增多种主流填充方式
